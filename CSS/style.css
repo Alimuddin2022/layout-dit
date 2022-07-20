@@ -1,0 +1,54 @@
+/* Global Class */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+/* Header Part */
+header {
+    width: 100%;
+    float: left;
+    background-color: blueviolet;
+    color: white;
+}
+nav{
+    width: 100%;
+    
+}
+.logo-part{
+    width: 50%;
+    float: left;
+   
+   
+}
+.menu-part {
+    width: 50%;
+    background-color: bisque;
+}
+.menu-part ul {
+
+}
+   
+.menu-part li {
+
+}
+    
+}
+.hero-part{
+    width: 100%;
+
+}
+.hero-part hl{
+  
+
+}
+.hero-part button {
+
+}
